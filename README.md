@@ -1,4 +1,4 @@
-# Micro-Livraria: Exemplo Prático de Microsserviços deu certo?
+# Micro-Livraria: Exemplo Prático de Microsserviços
 
 Este repositório contem um exemplo simples de uma livraria virtual construída usando uma **arquitetura de microsserviços**.
 
